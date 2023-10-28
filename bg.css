@@ -1,0 +1,15 @@
+body{
+    background: url(https://s.yimg.com/ny/api/res/1.2/0H7flxr97d_8wAlY4KnKKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTMzMw--/https://s.yimg.com/uu/api/res/1.2/tuO03aIPn9lEVczDOI7uhg--~B/aD0zMzg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/http://globalfinance.zenfs.com/en_us/Finance/US_AFTP_SILICONALLEY_H_LIVE/The_man_behind_Flappy_Bird-a1a0d7226b356a9418b30481b4e98c7a);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-weight: bolder;
+    overflow: hidden;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
